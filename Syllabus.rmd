@@ -1,0 +1,13 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+##1. Computer Programming
+###1.1 Python
+* Coursera : Introduction to interactive programming in python. [Click Here](https://class.coursera.org/interactivepython1-002/wiki/syllabus)
+* Intro to python at code academy
+    + [Basics](http://www.codecademy.com/courses/python-beginner-en-kSQwt/0/1)
+    + [Intermediate](http://www.codecademy.com/courses/python-intermediate-en-7mgOa/0/1)
+
+    
